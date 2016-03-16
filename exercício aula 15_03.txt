@@ -1,0 +1,6 @@
+Caio, a única coisa que soube fazer foi incluir LayoutManager no 
+ControlManager e lá colocar o echo para “startar” a página, 
+mas não resulta em nada.
+
+Estou estudando os códigos da aula mas estou bem perdido quanto 
+ao que se deve fazer no exercício.
